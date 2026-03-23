@@ -1,7 +1,7 @@
 # CSIRO Image2Biomass Prediction
 
 Predicting pasture biomass from drone imagery using vision transformers and ensemble methods. Built for the Kaggle CSIRO competition ($75k prize pool).
-
+ 
 ## Problem
 
 Farmers need to know if there's enough grass for their livestock. Current methods are either too slow (manual sampling) or unreliable (sensors, remote sensing). This project predicts 5 biomass targets from images:
